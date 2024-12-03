@@ -1218,127 +1218,127 @@ for column in df.columns:
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_0.png)
+![png](Checkpoint3_17_0.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_1.png)
+![png](Checkpoint3_17_1.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_2.png)
+![png](Checkpoint3_17_2.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_3.png)
+![png](Checkpoint3_17_3.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_4.png)
+![png](Checkpoint3_17_4.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_5.png)
+![png](Checkpoint3_17_5.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_6.png)
+![png](Checkpoint3_17_6.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_7.png)
+![png](Checkpoint3_17_7.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_8.png)
+![png](Checkpoint3_17_8.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_9.png)
+![png](Checkpoint3_17_9.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_10.png)
+![png](Checkpoint3_17_10.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_11.png)
+![png](Checkpoint3_17_11.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_12.png)
+![png](Checkpoint3_17_12.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_13.png)
+![png](Checkpoint3_17_13.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_14.png)
+![png](Checkpoint3_17_14.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_15.png)
+![png](Checkpoint3_17_15.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_16.png)
+![png](Checkpoint3_17_16.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_17.png)
+![png](Checkpoint3_17_17.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_18.png)
+![png](Checkpoint3_17_18.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_19.png)
+![png](Checkpoint3_17_19.png)
     
 
 
 
     
-![png](Checkpoint3_files/Checkpoint3_17_20.png)
+![png](Checkpoint3_17_20.png)
     
 
 
@@ -1403,7 +1403,7 @@ axs[1].set_ylabel('Number of Patients')
 
 
     
-![png](Checkpoint3_files/Checkpoint3_21_1.png)
+![png](Checkpoint3_21_1.png)
     
 
 
