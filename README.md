@@ -1216,15 +1216,14 @@ for column in df.columns:
             plt.show()
 ```
 
+    
+![png](https://github.com/miac-umdacc/cmsc320finalproject.github.io/blob/main/Checkpoint3_17_0.png)
+    
+
+
 
     
-![png](Checkpoint3_17_0.png)
-    
-
-
-
-    
-![png](Checkpoint3_17_1.png)
+![png](https://github.com/miac-umdacc/cmsc320finalproject.github.io/blob/main/Checkpoint3_17_1.png)
     
 
 
